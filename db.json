@@ -1,13 +1,13 @@
 {
   "tiles": [
-    {name:0,content:'',clicked:false},
-    {name:1,content:'',clicked:false},
-    {name:2,content:'',clicked:false},
-    {name:3,content:'',clicked:false},
-    {name:4,content:'',clicked:false},
-    {name:5,content:'',clicked:false},
-    {name:6,content:'',clicked:false},
-    {name:7,content:'',clicked:false},
-    {name:8,content:'',clicked:false},
+    {"name":0, "content":'', "clicked":false},
+    {"name":1, "content":'', "clicked":false},
+    {"name":2, "content":'', "clicked":false},
+    {"name":3, "content":'', "clicked":false},
+    {"name":4, "content":'', "clicked":false},
+    {"name":5, "content":'', "clicked":false},
+    {"name":6, "content":'', "clicked":false},
+    {"name":7, "content":'', "clicked":false},
+    {"name":8, "content":'', "clicked":false}
   ]
 }
