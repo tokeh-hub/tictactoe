@@ -1,14 +1,13 @@
 {
   "tiles": [
-    {"name":0, "id":0, "content":"", "clicked":false},
-    {"name":1, "id":1, "content":"", "clicked":false},
-    {"name":2, "id":2, "content":"", "clicked":false},
-    {"name":3, "id":3, "content":"", "clicked":false},
-    {"name":4, "id":4, "content":"", "clicked":false},
-    {"name":5, "id":5, "content":"", "clicked":false},
-    {"name":6, "id":6, "content":"", "clicked":false},
-    {"name":7, "id":7, "content":"", "clicked":false},
-    {"name":8, "id":8, "content":"", "clicked":false}
-  ],
-  "turn": "x"
+    {"name":0, "id":0, "content":"", "clicked":false,"turn":"x"},
+    {"name":1, "id":1, "content":"", "clicked":false,"turn":"x"},
+    {"name":2, "id":2, "content":"", "clicked":false,"turn":"x"},
+    {"name":3, "id":3, "content":"", "clicked":false,"turn":"x"},
+    {"name":4, "id":4, "content":"", "clicked":false,"turn":"x"},
+    {"name":5, "id":5, "content":"", "clicked":false,"turn":"x"},
+    {"name":6, "id":6, "content":"", "clicked":false,"turn":"x"},
+    {"name":7, "id":7, "content":"", "clicked":false,"turn":"x"},
+    {"name":8, "id":8, "content":"", "clicked":false,"turn":"x"}
+  ]
 }
