@@ -9,5 +9,6 @@
     {"name":6, "id":6, "content":"", "clicked":false},
     {"name":7, "id":7, "content":"", "clicked":false},
     {"name":8, "id":8, "content":"", "clicked":false}
-  ]
+  ],
+  "turn": "x"
 }
