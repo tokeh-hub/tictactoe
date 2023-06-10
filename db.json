@@ -8,6 +8,7 @@
     {"name":5, "id":5, "content":"", "clicked":false,"turn":"x"},
     {"name":6, "id":6, "content":"", "clicked":false,"turn":"x"},
     {"name":7, "id":7, "content":"", "clicked":false,"turn":"x"},
-    {"name":8, "id":8, "content":"", "clicked":false,"turn":"x"}
+    {"name":8, "id":8, "content":"", "clicked":false,"turn":"x"},
+    {"id":9,"content":"","clicked":false,"turn":"x"}
   ]
 }
